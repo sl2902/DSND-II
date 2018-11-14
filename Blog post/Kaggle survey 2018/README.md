@@ -18,13 +18,12 @@ D3.js 3.2.7
 <h1>Directories</h1></br>
 
 ```
-*d3_input* - Input directory that contains the input csv files for creating Sankey charts
-*data* - Contains the raw Kaggle survey data; there are three files: 1) multipleChoiceResponses.csv 2) freeFormResponses.csv 3) SurveySchema.csv
-*html* - Contains the d3.js file, html file for creating the Sankey charts, including png assets used in the Sankey chart
-*img* - Contains the output png of various charts used in the Blog to answer the various queries that I had about the survey
-*sankey_kaggle_demographic_insight.py* - Python script used to create the JSON file for the Sankey chart
-*Kaggle survey EDA 2018.ipynb* - Jupyter notebook containing the code used to analyze and generate the various charts used to answer the
-queries that I had
+**d3_input** - Input directory that contains the input csv files for creating Sankey charts
+**data** - Contains the raw Kaggle survey data; there are three files: 1) multipleChoiceResponses.csv 2) freeFormResponses.csv 3) SurveySchema.csv
+**html** - Contains the d3.js file, html file for creating the Sankey charts, including png assets used in the Sankey chart
+**img** - Contains the output png of various charts used in the Blog to answer the various queries that I had about the survey
+**sankey_kaggle_demographic_insight.py** - Python script used to create the JSON file for the Sankey chart
+**Kaggle survey EDA 2018.ipynb** - Jupyter notebook containing the code used to analyze and generate the various charts used to answer the queries that I had
 ```
 
 <h1>Summary</h1></br>
