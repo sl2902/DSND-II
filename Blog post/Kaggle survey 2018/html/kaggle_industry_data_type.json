@@ -1,0 +1,543 @@
+{
+    "directed": true,
+    "graph": {},
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "value": 11960
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 4285
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 9131
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "value": 3942
+        },
+        {
+            "source": 0,
+            "target": 8,
+            "value": 1431
+        },
+        {
+            "source": 0,
+            "target": 9,
+            "value": 2513
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 226
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "value": 3124
+        },
+        {
+            "source": 1,
+            "target": 11,
+            "value": 332
+        },
+        {
+            "source": 1,
+            "target": 12,
+            "value": 1040
+        },
+        {
+            "source": 1,
+            "target": 13,
+            "value": 1433
+        },
+        {
+            "source": 1,
+            "target": 14,
+            "value": 4128
+        },
+        {
+            "source": 1,
+            "target": 15,
+            "value": 911
+        },
+        {
+            "source": 1,
+            "target": 16,
+            "value": 2914
+        },
+        {
+            "source": 1,
+            "target": 17,
+            "value": 2910
+        },
+        {
+            "source": 1,
+            "target": 18,
+            "value": 3015
+        },
+        {
+            "source": 1,
+            "target": 19,
+            "value": 308
+        },
+        {
+            "source": 1,
+            "target": 20,
+            "value": 158
+        },
+        {
+            "source": 3,
+            "target": 1,
+            "value": 4242
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 2420
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 2731
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "value": 1208
+        },
+        {
+            "source": 3,
+            "target": 8,
+            "value": 500
+        },
+        {
+            "source": 3,
+            "target": 9,
+            "value": 672
+        },
+        {
+            "source": 4,
+            "target": 2,
+            "value": 210
+        },
+        {
+            "source": 4,
+            "target": 10,
+            "value": 1179
+        },
+        {
+            "source": 4,
+            "target": 11,
+            "value": 174
+        },
+        {
+            "source": 4,
+            "target": 12,
+            "value": 207
+        },
+        {
+            "source": 4,
+            "target": 13,
+            "value": 1279
+        },
+        {
+            "source": 4,
+            "target": 14,
+            "value": 1729
+        },
+        {
+            "source": 4,
+            "target": 15,
+            "value": 375
+        },
+        {
+            "source": 4,
+            "target": 16,
+            "value": 943
+        },
+        {
+            "source": 4,
+            "target": 17,
+            "value": 1399
+        },
+        {
+            "source": 4,
+            "target": 18,
+            "value": 943
+        },
+        {
+            "source": 4,
+            "target": 19,
+            "value": 301
+        },
+        {
+            "source": 4,
+            "target": 20,
+            "value": 66
+        },
+        {
+            "source": 5,
+            "target": 2,
+            "value": 329
+        },
+        {
+            "source": 5,
+            "target": 10,
+            "value": 1943
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": 249
+        },
+        {
+            "source": 5,
+            "target": 12,
+            "value": 537
+        },
+        {
+            "source": 5,
+            "target": 13,
+            "value": 1625
+        },
+        {
+            "source": 5,
+            "target": 14,
+            "value": 2522
+        },
+        {
+            "source": 5,
+            "target": 15,
+            "value": 772
+        },
+        {
+            "source": 5,
+            "target": 16,
+            "value": 1870
+        },
+        {
+            "source": 5,
+            "target": 17,
+            "value": 2482
+        },
+        {
+            "source": 5,
+            "target": 18,
+            "value": 1884
+        },
+        {
+            "source": 5,
+            "target": 19,
+            "value": 517
+        },
+        {
+            "source": 5,
+            "target": 20,
+            "value": 92
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 4297
+        },
+        {
+            "source": 6,
+            "target": 4,
+            "value": 2100
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "value": 2960
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 1446
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "value": 449
+        },
+        {
+            "source": 6,
+            "target": 9,
+            "value": 767
+        },
+        {
+            "source": 7,
+            "target": 2,
+            "value": 118
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "value": 858
+        },
+        {
+            "source": 7,
+            "target": 11,
+            "value": 215
+        },
+        {
+            "source": 7,
+            "target": 12,
+            "value": 266
+        },
+        {
+            "source": 7,
+            "target": 13,
+            "value": 716
+        },
+        {
+            "source": 7,
+            "target": 14,
+            "value": 1279
+        },
+        {
+            "source": 7,
+            "target": 15,
+            "value": 385
+        },
+        {
+            "source": 7,
+            "target": 16,
+            "value": 718
+        },
+        {
+            "source": 7,
+            "target": 17,
+            "value": 905
+        },
+        {
+            "source": 7,
+            "target": 18,
+            "value": 885
+        },
+        {
+            "source": 7,
+            "target": 19,
+            "value": 187
+        },
+        {
+            "source": 7,
+            "target": 20,
+            "value": 64
+        },
+        {
+            "source": 8,
+            "target": 2,
+            "value": 29
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "value": 385
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "value": 25
+        },
+        {
+            "source": 8,
+            "target": 12,
+            "value": 82
+        },
+        {
+            "source": 8,
+            "target": 13,
+            "value": 165
+        },
+        {
+            "source": 8,
+            "target": 14,
+            "value": 470
+        },
+        {
+            "source": 8,
+            "target": 15,
+            "value": 47
+        },
+        {
+            "source": 8,
+            "target": 16,
+            "value": 328
+        },
+        {
+            "source": 8,
+            "target": 17,
+            "value": 436
+        },
+        {
+            "source": 8,
+            "target": 18,
+            "value": 361
+        },
+        {
+            "source": 8,
+            "target": 19,
+            "value": 39
+        },
+        {
+            "source": 8,
+            "target": 20,
+            "value": 13
+        },
+        {
+            "source": 9,
+            "target": 2,
+            "value": 41
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 660
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "value": 59
+        },
+        {
+            "source": 9,
+            "target": 12,
+            "value": 113
+        },
+        {
+            "source": 9,
+            "target": 13,
+            "value": 169
+        },
+        {
+            "source": 9,
+            "target": 14,
+            "value": 896
+        },
+        {
+            "source": 9,
+            "target": 15,
+            "value": 62
+        },
+        {
+            "source": 9,
+            "target": 16,
+            "value": 621
+        },
+        {
+            "source": 9,
+            "target": 17,
+            "value": 597
+        },
+        {
+            "source": 9,
+            "target": 18,
+            "value": 691
+        },
+        {
+            "source": 9,
+            "target": 19,
+            "value": 31
+        },
+        {
+            "source": 9,
+            "target": 20,
+            "value": 12
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": 0,
+            "name": "Yes"
+        },
+        {
+            "id": 1,
+            "name": "Other industry"
+        },
+        {
+            "id": 2,
+            "name": "Audio Data"
+        },
+        {
+            "id": 3,
+            "name": "No"
+        },
+        {
+            "id": 4,
+            "name": "I am a student"
+        },
+        {
+            "id": 5,
+            "name": "Computers/Technology"
+        },
+        {
+            "id": 6,
+            "name": "Maybe"
+        },
+        {
+            "id": 7,
+            "name": "Academics/Education"
+        },
+        {
+            "id": 8,
+            "name": "Online Service/Internet-based Services"
+        },
+        {
+            "id": 9,
+            "name": "Accounting/Finance"
+        },
+        {
+            "id": 10,
+            "name": "Categorical Data"
+        },
+        {
+            "id": 11,
+            "name": "Genetic Data"
+        },
+        {
+            "id": 12,
+            "name": "Geospatial Data"
+        },
+        {
+            "id": 13,
+            "name": "Image Data"
+        },
+        {
+            "id": 14,
+            "name": "Numerical Data"
+        },
+        {
+            "id": 15,
+            "name": "Sensor Data"
+        },
+        {
+            "id": 16,
+            "name": "Tabular Data"
+        },
+        {
+            "id": 17,
+            "name": "Text Data"
+        },
+        {
+            "id": 18,
+            "name": "Time Series Data"
+        },
+        {
+            "id": 19,
+            "name": "Video Data"
+        },
+        {
+            "id": 20,
+            "name": "Other Data"
+        }
+    ]
+}
