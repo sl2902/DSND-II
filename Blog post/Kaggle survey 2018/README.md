@@ -32,11 +32,11 @@ img folder - Contains the output png of various charts used in the Blog to answe
 
 + The respondents holds a Bachelor’s degree or higher in one of the STEM disciplines, has 3 years or less of work experience, with 2       years or less of coding experience, and spends anywhere from 1%-25% to 50%-74% of his/her time in coding</br>
 
-+ Of the 4137 professionally employed Data scientsts , 77% of the respondents who were asked whether they see themselves as Data           scientists or not were confident of being Data scientists; this community uses Python as its weapon of choice. Some of the               datasets commonly worked on are: Geospatial data, Audio data, Tabular data, etc.</br>
++ Of the 4137 professionally employed Data scientsts , 77% of the respondents who were asked whether they see themselves as Data           scientists or not were confident of being seen as Data scientists; this community uses Python as its weapon of choice. Some of the       datasets commonly worked on are: Geospatial data, Audio data, Tabular data, etc.</br>
 
 + With respect to ML frameworks, Scikit-Learn is popular with this community; the community spends a little less than 25% of its time on   various data munging and modelling tasks such as gathering data, cleaning data, visualising data, and model building and, less than     12% of its time on deploying models to production and/or finding and communicating insights to stakeholders</br>
 
-
++ [Are you a Data Scientist?](https://medium.com/@laxmsun/are-you-a-data-scientist-4ca03d00a316)
 <h1>Acknowledgement</h1></br>
 
 [Kaggle](https://www.kaggle.com/kaggle/kaggle-survey-2018) - For providing the data
