@@ -19,11 +19,11 @@ and ML pipeline to train the classifier and fine tune it
    Go to http://localhost:3001/
    
 ### File description:
-`app/run.py` - Deploys the app either locally or in the workspace
-`data/process_data.py` - ETL pipeline to parse the disaster messages and categories data, clean the dataframe, 
-                          and write the dataframe to a sqlite database
-`model/train_classifier.py` - ML pipeline to train, tune, evalute, and save the pickled classifier
-`data/disaster_messages.csv` - CSV file containing the disaster messages
-`data/disaster_categories.csv - CSV file containing the 36 disaster classes
+`app/run.py` - Deploys the app either locally or in the workspace<br/>
+`data/process_data.py` - ETL pipeline to parse the disaster messages and categories data, clean the dataframe, <br/>
+                          and write the dataframe to a sqlite database<br/>
+`model/train_classifier.py` - ML pipeline to train, tune, evalute, and save the pickled classifier<br/>
+`data/disaster_messages.csv` - CSV file containing the disaster messages<br/>
+`data/disaster_categories.csv` - CSV file containing the 36 disaster classes<br/>
 `app/template/*.html` - Supporting files for the app, including visualization
 `
